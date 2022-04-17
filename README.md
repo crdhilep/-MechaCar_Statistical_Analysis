@@ -29,11 +29,11 @@ Analysis:
 ## T-Test on Suspension Coils
 ### Summary t-test results across the Manufactoring Lots:
 
-![t-test Summary](resources/Ttest_summary)
+![t-test Summary](resources/Ttest_summary.png)
 
 ### Summary t-test results for individual Manufactoring Lots:
 
-![t-test Summary](resources/Ttest_for_individual_lot)
+![t-test Summary](resources/Ttest_for_individual_lot.png)
 
 
 ### Summary fo Individual T-Tests:
